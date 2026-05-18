@@ -1,0 +1,28 @@
+C:\Visual Studio Assignments\Week 6 Challenge Labs\bin\Debug\net10.0\Rovy Week 6 Challenge Labs.exe
+C:\Visual Studio Assignments\Week 6 Challenge Labs\bin\Debug\net10.0\Rovy Week 6 Challenge Labs.deps.json
+C:\Visual Studio Assignments\Week 6 Challenge Labs\bin\Debug\net10.0\Rovy Week 6 Challenge Labs.runtimeconfig.json
+C:\Visual Studio Assignments\Week 6 Challenge Labs\bin\Debug\net10.0\Rovy Week 6 Challenge Labs.dll
+C:\Visual Studio Assignments\Week 6 Challenge Labs\bin\Debug\net10.0\Rovy Week 6 Challenge Labs.pdb
+C:\Visual Studio Assignments\Week 6 Challenge Labs\obj\Debug\net10.0\Rovy Week 6 Challenge Labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Assignments\Week 6 Challenge Labs\obj\Debug\net10.0\Rovy Week 6 Challenge Labs.AssemblyInfoInputs.cache
+C:\Visual Studio Assignments\Week 6 Challenge Labs\obj\Debug\net10.0\Rovy Week 6 Challenge Labs.AssemblyInfo.cs
+C:\Visual Studio Assignments\Week 6 Challenge Labs\obj\Debug\net10.0\Rovy Week 6 Challenge Labs.csproj.CoreCompileInputs.cache
+C:\Visual Studio Assignments\Week 6 Challenge Labs\obj\Debug\net10.0\Rovy Week 6 Challenge Labs.dll
+C:\Visual Studio Assignments\Week 6 Challenge Labs\obj\Debug\net10.0\refint\Rovy Week 6 Challenge Labs.dll
+C:\Visual Studio Assignments\Week 6 Challenge Labs\obj\Debug\net10.0\Rovy Week 6 Challenge Labs.pdb
+C:\Visual Studio Assignments\Week 6 Challenge Labs\obj\Debug\net10.0\Rovy Week 6 Challenge Labs.genruntimeconfig.cache
+C:\Visual Studio Assignments\Week 6 Challenge Labs\obj\Debug\net10.0\ref\Rovy Week 6 Challenge Labs.dll
+C:\Visual Studio Assignments\Rovy Week 6 Challenge Labs\bin\Debug\net10.0\Rovy Week 6 Challenge Labs.exe
+C:\Visual Studio Assignments\Rovy Week 6 Challenge Labs\bin\Debug\net10.0\Rovy Week 6 Challenge Labs.deps.json
+C:\Visual Studio Assignments\Rovy Week 6 Challenge Labs\bin\Debug\net10.0\Rovy Week 6 Challenge Labs.runtimeconfig.json
+C:\Visual Studio Assignments\Rovy Week 6 Challenge Labs\bin\Debug\net10.0\Rovy Week 6 Challenge Labs.dll
+C:\Visual Studio Assignments\Rovy Week 6 Challenge Labs\bin\Debug\net10.0\Rovy Week 6 Challenge Labs.pdb
+C:\Visual Studio Assignments\Rovy Week 6 Challenge Labs\obj\Debug\net10.0\Rovy Week 6 Challenge Labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual Studio Assignments\Rovy Week 6 Challenge Labs\obj\Debug\net10.0\Rovy Week 6 Challenge Labs.AssemblyInfoInputs.cache
+C:\Visual Studio Assignments\Rovy Week 6 Challenge Labs\obj\Debug\net10.0\Rovy Week 6 Challenge Labs.AssemblyInfo.cs
+C:\Visual Studio Assignments\Rovy Week 6 Challenge Labs\obj\Debug\net10.0\Rovy Week 6 Challenge Labs.csproj.CoreCompileInputs.cache
+C:\Visual Studio Assignments\Rovy Week 6 Challenge Labs\obj\Debug\net10.0\Rovy Week 6 Challenge Labs.dll
+C:\Visual Studio Assignments\Rovy Week 6 Challenge Labs\obj\Debug\net10.0\refint\Rovy Week 6 Challenge Labs.dll
+C:\Visual Studio Assignments\Rovy Week 6 Challenge Labs\obj\Debug\net10.0\Rovy Week 6 Challenge Labs.pdb
+C:\Visual Studio Assignments\Rovy Week 6 Challenge Labs\obj\Debug\net10.0\Rovy Week 6 Challenge Labs.genruntimeconfig.cache
+C:\Visual Studio Assignments\Rovy Week 6 Challenge Labs\obj\Debug\net10.0\ref\Rovy Week 6 Challenge Labs.dll
